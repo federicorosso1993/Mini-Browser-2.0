@@ -32,7 +32,7 @@ write you email in the note and I will send you the code to install Mini Browser
 </a>
 
 You can try the Microsoft store version (without the download function) for 7 days here (you can also buy that version from there):
-<a href="ms-windows-store://pdp/?productid=9NWHW0ZJ1CS1">
+<a href="https://www.microsoft.com/store/apps/9NWHW0ZJ1CS1">
   <img src="https://raw.githubusercontent.com/federicorosso1993/Mini-Browser-2.0/master/microsoft-store.jpg" alt="Download from Microsoft Store" />
 </a>
 
