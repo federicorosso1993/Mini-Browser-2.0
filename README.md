@@ -26,7 +26,7 @@ Everything else is selfexplanatory (just try the fullscreen mode).
 
 To install Mini Browser 2 you need to download the installer and type a password <br>
 To get the password you will need to make a donation with paypal (the minimum is 5,99€), <br> 
-write you email in the note and I will send you the code to install Mini Browser 2 (each password is unique so if you share it you can be identified, each update you want to do you will need to request a new key from me): 
+write you email in the note and I will send you the code to install Mini Browser 2 (each password is unique so if you share it you can be identified, each update you will get a new key on the email you wrote in the note the first time and a download link for your personal installer): 
 
 <a href="https://www.paypal.com/donate?hosted_button_id=QJBK2R2Q3Z28U">
   <img src="https://raw.githubusercontent.com/federicorosso1993/Mini-Browser-2.0/master/paypal-donate-button.png" alt="Donate with PayPal" />
