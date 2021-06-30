@@ -5,7 +5,7 @@ Up to 3 favorite sites that can be used as an app, very simple Tabs to not inter
 Discover full screen mode to avoid all distractions!<br>
 Few and very simple keyboard shortcuts: CTRL + N new tab CTRL + W close tab CTRL + right / left arrow next / previous tab.<br>
 Esc to fullscreen.<br>
-Download any video from anywhere you need.
+Download any video from anywhere you need (if it is not encrypted it should work).
 
 It is Mini it is Browser is UNIQUE!
 
@@ -13,11 +13,11 @@ It is Mini it is Browser is UNIQUE!
 
 Launch Mini Browser 2. 
 You can navigate like you do in a regular browser, by using dedicated buttons or by simple keyboards shortcuts (CTRL+N new tab, CTRL+W close tab, CTRL+left arrow previuos tab, CTRL+right arrow next tab, Esc go/exit fullscreen). <br>
-Take url to get your current url location. <br>
+Take url to get your current url location (you need to do this before you click on a Favourite button). <br>
 Download to download the url in the url location (you can copy multiple links separated by space to download all the videos). <br>
 You can abort the download with the Abort button. <br>
 You can download from crunchyroll by login to the website, click on the Cookie Downloader button and fill the username/password fields. <br>
-If you want to download from beta crunchyroll you just need to fill the login you don't need to download cookies. <br>
+If you want to download from beta crunchyroll you just need to take the url, you will only need to fill the login if the episode is a premium only one (if you have a premium account on crunchyroll), you don't need to download cookies. <br>
 You can type urls or just google anything with the url location textfield. <br>
 Update button just download the last version of the downlader used by my Mini-Browser interface. <br>
 Everything else is selfexplanatory (just try the fullscreen mode).
