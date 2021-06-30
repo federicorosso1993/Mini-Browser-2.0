@@ -32,6 +32,11 @@ write you email in the note and I will send you the code to install Mini Browser
   <img src="https://raw.githubusercontent.com/federicorosso1993/Mini-Browser-2.0/master/paypal-donate-button.png" alt="Donate with PayPal" />
 </a>
 
+Note: if in the future too many people buy the app for me to handle this key system I'll just keep one key for everyone. At that point the development of this app will be repaid.
+Of course you will still not legally be able to share this to anyone.
+
+Even with this system you are able to install this app multiple times on multiple device without internet connection anywhere. There is no DRM on the installed app, no internet drm on the installer. This is still DRM-free even with the password needed for the installer. The password is there just to repay the development time and be able to use my time to improve this app.
+
 You can try the Microsoft store version (without the download function) for 7 days here (you can also buy that version from there):
 
 <a href="https://www.microsoft.com/store/apps/9NWHW0ZJ1CS1">
