@@ -26,13 +26,13 @@ Everything else is selfexplanatory (just try the fullscreen mode).
 
 To install Mini Browser 2 you need to download the installer and type a password <br>
 To get the password you will need to make a donation with paypal (the minimum is 5,99€), <br> 
-write you email in the note and I will send you the code to install Mini Browser 2 (each password is unique so if you share it you can be identified): 
+write you email in the note and I will send you the code to install Mini Browser 2 (each password is unique so if you share it you can be identified, each update you want to do you will need to request a new key from me): 
 
 <a href="https://www.paypal.com/donate?hosted_button_id=QJBK2R2Q3Z28U">
   <img src="https://raw.githubusercontent.com/federicorosso1993/Mini-Browser-2.0/master/paypal-donate-button.png" alt="Donate with PayPal" />
 </a>
 
-You can try the Microsoft store version (without the download function) for 7 days here (you can also buy that version from there) (right now this is not an option since Microsoft refused to release my app):
+You can try the Microsoft store version (without the download function) for 7 days here (you can also buy that version from there):
 
 <a href="https://www.microsoft.com/store/apps/9NWHW0ZJ1CS1">
   <img src="https://raw.githubusercontent.com/federicorosso1993/Mini-Browser-2.0/master/microsoft-store-button.jpg" alt="Download from Microsoft Store" />
