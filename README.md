@@ -39,7 +39,7 @@ Even with this system you are able to install this app multiple times on multipl
 
 You can try the Microsoft store version (without the download function) for 7 days here (you can also buy that version from there):
 
-<a href="https://www.microsoft.com/store/apps/9NWHW0ZJ1CS1">
+<a href="https://apps.microsoft.com/detail/9nwhw0zj1cs1">
   <img src="https://raw.githubusercontent.com/federicorosso1993/Mini-Browser-2.0/master/microsoft-store-button.jpg" alt="Download from Microsoft Store" />
 </a>
 
